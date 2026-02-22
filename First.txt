@@ -1,1 +1,2 @@
-This file is created.
+This file is created in the createFile.py folder. 
+This is TEXT file created using write mode.
